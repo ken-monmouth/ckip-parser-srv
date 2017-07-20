@@ -6,3 +6,8 @@
 為了便於使用,以及在未來可以成為對外提供的線上服務
 
 所以用Sprint Boot把它包裝在Rest服務
+
+輸出結果: 
+
+<img src="http://clifton.office.mt.com.tw/~ctu/images/mtparser.JPG">
+
