@@ -11,3 +11,6 @@
 
 <img src="http://clifton.office.mt.com.tw/~ctu/images/mtparser.JPG">
 
+2017-08-21
+
+把這個專案移進qa-chatbot專案裡，成為底下的一個Module
